@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frazzer951&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frazzer951&show_icons=true&theme=tokyonight" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@Frazzer">
@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 🌱 My latest projects
@@ -21,5 +21,5 @@
 
 #### 🔨 My recent Pull Requests
 {{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}})
 {{- end}}
