@@ -3,10 +3,10 @@
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@Frazzer">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Frazzer/858fc84c-59c3-4e92-a231-1ca08a0e4860.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Frazzer/e1bdc5dd-addd-4f39-ae41-2a52a1fb3f48.svg" />
 </a>
 <a href="https://wakatime.com/@Frazzer">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Frazzer/3ddccc80-2dcb-40a6-90fd-e442d08dc9fe.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@Frazzer/95dbf284-50ef-4e85-8eeb-2a0771626837.svg" />
 </a></p>
 
 #### 👷 Check out what I'm currently working on
