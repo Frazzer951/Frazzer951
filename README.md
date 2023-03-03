@@ -12,18 +12,18 @@
 #### 👷 Check out what I'm currently working on
 
 - [Frazzer951/CPSC-484-Computer-Graphics](https://github.com/Frazzer951/CPSC-484-Computer-Graphics) - A collection of all the code for my CPSC 484 - Intro to Computer Graphics Class
+- [Frazzer951/CPSC-449-Web-Backend](https://github.com/Frazzer951/CPSC-449-Web-Backend) - All the code files for my CPSC 449 Web-backend class
 - [Frazzer951/NeetCode](https://github.com/Frazzer951/NeetCode) - My Solution to the NeetCode Problems in rust
 - [Frazzer951/DailyCodingProblemRust](https://github.com/Frazzer951/DailyCodingProblemRust) - My Solutions to the Daily Coding Problem in Rust dailycodingproblem.com
 - [Frazzer951/fpm](https://github.com/Frazzer951/fpm) - FPM - Frazzer&#39;s Project Manager
-- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 
 #### 🌱 My latest projects
 
+- [Frazzer951/CPSC-449-Web-Backend](https://github.com/Frazzer951/CPSC-449-Web-Backend) - All the code files for my CPSC 449 Web-backend class
 - [Frazzer951/CPSC-484-Computer-Graphics](https://github.com/Frazzer951/CPSC-484-Computer-Graphics) - A collection of all the code for my CPSC 484 - Intro to Computer Graphics Class
 - [Frazzer951/MPI_FranklinsAlgorithm](https://github.com/Frazzer951/MPI_FranklinsAlgorithm) - 
 - [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 - [Frazzer951/UE5_Crossy_Road](https://github.com/Frazzer951/UE5_Crossy_Road) - Crossy Road in UE5 for Game Design Class
-- [Frazzer951/ConnectX](https://github.com/Frazzer951/ConnectX) - A variant on Connect 4 for my AI class
 
 #### 🔨 My recent Pull Requests
 
