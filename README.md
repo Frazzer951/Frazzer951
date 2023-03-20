@@ -11,16 +11,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/CPSC-484-Computer-Graphics](https://github.com/Frazzer951/CPSC-484-Computer-Graphics) - A collection of all the code for my CPSC 484 - Intro to Computer Graphics Class
 - [Frazzer951/DailyCodingProblem](https://github.com/Frazzer951/DailyCodingProblem) - My Solutions to the Daily Coding Problem in C&#43;&#43; dailycodingproblem.com
-- [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/fpm](https://github.com/Frazzer951/fpm) - FPM - Frazzer&#39;s Project Manager
 - [Frazzer951/CPSC-449-Web-Backend](https://github.com/Frazzer951/CPSC-449-Web-Backend) - All the code files for my CPSC 449 Web-backend class
 
 #### 🌱 My latest projects
 
 - [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
-- [Frazzer951/website](https://github.com/Frazzer951/website) - 
+- [Frazzer951/website](https://github.com/Frazzer951/website) - My Portfolio Website
 - [Frazzer951/CPSC-449-Web-Backend](https://github.com/Frazzer951/CPSC-449-Web-Backend) - All the code files for my CPSC 449 Web-backend class
 - [Frazzer951/CPSC-484-Computer-Graphics](https://github.com/Frazzer951/CPSC-484-Computer-Graphics) - A collection of all the code for my CPSC 484 - Intro to Computer Graphics Class
 - [Frazzer951/MPI_FranklinsAlgorithm](https://github.com/Frazzer951/MPI_FranklinsAlgorithm) - 
