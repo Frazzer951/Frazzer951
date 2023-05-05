@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Feature/get books](https://github.com/Frazzer951/bookstore-api/pull/1) on [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api)
 - [add remaining error handelers](https://github.com/Frazzer951/CPSC-449-Midterm-Project/pull/2) on [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project)
 - [Feature/authentication](https://github.com/Frazzer951/CPSC-449-Midterm-Project/pull/1) on [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project)
 - [Develop](https://github.com/Frazzer951/fpm/pull/78) on [Frazzer951/fpm](https://github.com/Frazzer951/fpm)
 - [V60 single cup](https://github.com/mascent/james-hoffmann-calculator/pull/16) on [mascent/james-hoffmann-calculator](https://github.com/mascent/james-hoffmann-calculator)
-- [Frontend](https://github.com/Frazzer951/CPSC-362-Group-Project/pull/35) on [Frazzer951/CPSC-362-Group-Project](https://github.com/Frazzer951/CPSC-362-Group-Project)
