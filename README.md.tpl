@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frazzer951&show_icons=true&theme=tokyonight" />
+<p align="center"><a href="https://github.com/Frazzer951/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-frazzer951.vercel.app/api?username=Frazzer951&show_icons=true&theme=tokyonight" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@Frazzer">
