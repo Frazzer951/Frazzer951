@@ -1,5 +1,5 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Frazzer951&show_icons=true&theme=tokyonight" />
+<p align="center"><a href="https://github.com/Frazzer951/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-frazzer951.vercel.app/api?username=Frazzer951&show_icons=true&theme=tokyonight" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@Frazzer">
@@ -11,9 +11,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/CPSC-484-Computer-Graphics](https://github.com/Frazzer951/CPSC-484-Computer-Graphics) - A collection of all the code for my CPSC 484 - Intro to Computer Graphics Class
 - [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api) - CPSC 449 Final Project
-- [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project) - 
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - 
 
@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add Template Support](https://github.com/Frazzer951/ProjectOrganzier/pull/14) on [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier)
 - [Feature/get books](https://github.com/Frazzer951/bookstore-api/pull/1) on [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api)
 - [add remaining error handelers](https://github.com/Frazzer951/CPSC-449-Midterm-Project/pull/2) on [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project)
 - [Feature/authentication](https://github.com/Frazzer951/CPSC-449-Midterm-Project/pull/1) on [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project)
 - [Develop](https://github.com/Frazzer951/fpm/pull/78) on [Frazzer951/fpm](https://github.com/Frazzer951/fpm)
-- [V60 single cup](https://github.com/mascent/james-hoffmann-calculator/pull/16) on [mascent/james-hoffmann-calculator](https://github.com/mascent/james-hoffmann-calculator)
