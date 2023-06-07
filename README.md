@@ -11,19 +11,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
+- [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
 - [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api) - CPSC 449 Final Project
+- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 - [Frazzer951/CPSC-484-Computer-Graphics](https://github.com/Frazzer951/CPSC-484-Computer-Graphics) - A collection of all the code for my CPSC 484 - Intro to Computer Graphics Class
 - [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
-- [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project) - 
 
 #### 🌱 My latest projects
 
+- [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
 - [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api) - CPSC 449 Final Project
 - [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project) - 
 - [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/website](https://github.com/Frazzer951/website) - My Portfolio Website
-- [Frazzer951/CPSC-449-Web-Backend](https://github.com/Frazzer951/CPSC-449-Web-Backend) - All the code files for my CPSC 449 Web-backend class
 
 #### 🔨 My recent Pull Requests
 
