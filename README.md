@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - 
 - [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
-- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 - [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api) - CPSC 449 Final Project
-- [Frazzer951/CPSC-484-Computer-Graphics](https://github.com/Frazzer951/CPSC-484-Computer-Graphics) - A collection of all the code for my CPSC 484 - Intro to Computer Graphics Class
+- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 
 #### 🌱 My latest projects
 
