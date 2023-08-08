@@ -14,8 +14,8 @@
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - 
 - [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
-- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 - [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api) - CPSC 449 Final Project
+- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 
 #### 🌱 My latest projects
 
