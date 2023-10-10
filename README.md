@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/website](https://github.com/Frazzer951/website) - My Portfolio Website
 - [SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications) - 
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - 
 - [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier) - ProjectOrganizer is a CLI tool to create, manage, and organize your project folders 
 - [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
-- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 
 #### 🌱 My latest projects
 
