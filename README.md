@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - 
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - 
+- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - 
 - [Frazzer951/website](https://github.com/Frazzer951/website) - My Portfolio Website
 - [SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications) - 
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - 
