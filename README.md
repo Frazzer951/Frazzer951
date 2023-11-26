@@ -11,7 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - 
+- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
 - [Frazzer951/website](https://github.com/Frazzer951/website) - My Portfolio Website
 - [SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications) - 
@@ -19,7 +19,7 @@
 
 #### 🌱 My latest projects
 
-- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - 
+- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
 - [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
 - [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api) - CPSC 449 Final Project
