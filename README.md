@@ -11,19 +11,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
+- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - 
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
+- [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
 - [Frazzer951/website](https://github.com/Frazzer951/website) - My Portfolio Website
 - [SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications) - 
-- [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - 
 
 #### 🌱 My latest projects
 
+- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - 
 - [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
 - [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
 - [Frazzer951/bookstore-api](https://github.com/Frazzer951/bookstore-api) - CPSC 449 Final Project
-- [Frazzer951/CPSC-449-Midterm-Project](https://github.com/Frazzer951/CPSC-449-Midterm-Project) - 
 
 #### 🔨 My recent Pull Requests
 
