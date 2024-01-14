@@ -11,9 +11,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - 
-- [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
 - [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
+- [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
+- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - 
 - [Frazzer951/website](https://github.com/Frazzer951/website) - My Portfolio Website
 - [SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications) - 
 
