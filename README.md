@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [comment the correct thing](https://github.com/Frazzer951/qbit_controller/pull/4) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [Feature/completions](https://github.com/Frazzer951/futils/pull/5) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
 - [Feature/json testing](https://github.com/Frazzer951/futils/pull/4) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
 - [ci: Update dependabot.yml](https://github.com/Frazzer951/futils/pull/3) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
 - [Fix Syncoid Flags for syncoid_mode](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications/pull/18) on [SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications)
-- [feat: Add Template Support](https://github.com/Frazzer951/ProjectOrganzier/pull/14) on [Frazzer951/ProjectOrganzier](https://github.com/Frazzer951/ProjectOrganzier)
