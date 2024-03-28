@@ -12,23 +12,23 @@
 #### 👷 Check out what I'm currently working on
 
 - [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
-- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - 
-- [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - 
+- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
+- [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - Various config files for multiple OS&#39;s
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
-- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - 
+- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - The homebrew repo for fUtils
 
 #### 🌱 My latest projects
 
-- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - 
-- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - 
+- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
+- [Frazzer951/homebrew-futils](https://github.com/Frazzer951/homebrew-futils) - The homebrew repo for fUtils
 - [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
 - [Frazzer951/amplify-react-graphql](https://github.com/Frazzer951/amplify-react-graphql) - 
 
 #### 🔨 My recent Pull Requests
 
+- [Update repo](https://github.com/Frazzer951/docker-github-backup/pull/12) on [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup)
 - [comment the correct thing](https://github.com/Frazzer951/qbit_controller/pull/4) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [Feature/completions](https://github.com/Frazzer951/futils/pull/5) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
 - [Feature/json testing](https://github.com/Frazzer951/futils/pull/4) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
 - [ci: Update dependabot.yml](https://github.com/Frazzer951/futils/pull/3) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
-- [Fix Syncoid Flags for syncoid_mode](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications/pull/18) on [SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications](https://github.com/SpaceinvaderOne/Unraid_ZFS_Dataset_Snapshot_and_Replications)
