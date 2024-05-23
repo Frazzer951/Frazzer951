@@ -11,11 +11,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
+- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
 - [Frazzer951/cosmos-chain-denom-map](https://github.com/Frazzer951/cosmos-chain-denom-map) - An attempt to automatically map IBC tokens.
-- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - Various config files for multiple OS&#39;s
-- [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
 
 #### 🌱 My latest projects
 
