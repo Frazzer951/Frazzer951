@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [allow access to missing files](https://github.com/Frazzer951/website/pull/20) on [Frazzer951/website](https://github.com/Frazzer951/website)
 - [chore: update deps](https://github.com/Frazzer951/website/pull/19) on [Frazzer951/website](https://github.com/Frazzer951/website)
 - [comment the correct thing](https://github.com/Frazzer951/qbit_controller/pull/4) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [Feature/completions](https://github.com/Frazzer951/futils/pull/5) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
 - [Feature/json testing](https://github.com/Frazzer951/futils/pull/4) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
-- [ci: Update dependabot.yml](https://github.com/Frazzer951/futils/pull/3) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
