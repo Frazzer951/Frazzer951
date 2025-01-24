@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 - [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
+- [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - Various config files for multiple OS&#39;s
 - [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
 - [Frazzer951/futils](https://github.com/Frazzer951/futils) - A collection of CLI utilities
@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Cat Move](https://github.com/Frazzer951/qbit_controller/pull/32) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [total rewrite](https://github.com/Frazzer951/AOC_Rust/pull/13) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
 - [2023 day 1](https://github.com/Frazzer951/AOC_Rust/pull/12) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
 - [Feature/2015 01](https://github.com/Frazzer951/AOC_Rust/pull/11) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
 - [Readme](https://github.com/Frazzer951/AOC_Rust/pull/8) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
-- [Repo refactor](https://github.com/Frazzer951/AOC_Rust/pull/7) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
