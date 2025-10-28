@@ -15,7 +15,6 @@
 - [Frazzer951/plex_unmonitorr](https://github.com/Frazzer951/plex_unmonitorr) - 
 - [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust) - 
-- [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - Various config files for multiple OS&#39;s
 
 #### 🌱 My latest projects
 
