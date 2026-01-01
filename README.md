@@ -25,8 +25,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Adds minute offset to hourly scheduling](https://github.com/cenodude/CrossWatch/pull/54) on [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch)
 - [chore: update dependabot and deps](https://github.com/Frazzer951/futils/pull/11) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
 - [Cat Move](https://github.com/Frazzer951/qbit_controller/pull/32) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [total rewrite](https://github.com/Frazzer951/AOC_Rust/pull/13) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
 - [2023 day 1](https://github.com/Frazzer951/AOC_Rust/pull/12) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
-- [Feature/2015 01](https://github.com/Frazzer951/AOC_Rust/pull/11) on [Frazzer951/AOC_Rust](https://github.com/Frazzer951/AOC_Rust)
