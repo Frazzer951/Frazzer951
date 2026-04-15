@@ -11,9 +11,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
 - [Frazzer951/dotfiles](https://github.com/Frazzer951/dotfiles) - Various config files for multiple OS&#39;s
 - [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
-- [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
 - [Frazzer951/kometa-images](https://github.com/Frazzer951/kometa-images) - 
 - [Frazzer951/plex_unmonitorr](https://github.com/Frazzer951/plex_unmonitorr) - 
 
@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor backup runner and improve sync behavior](https://github.com/Frazzer951/docker-github-backup/pull/59) on [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup)
 - [Bumps version to 0.2.3](https://github.com/Frazzer951/qbit_controller/pull/38) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [Fix inconsistent ordering in config](https://github.com/Frazzer951/qbit_controller/pull/35) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [Updates](https://github.com/Frazzer951/docker-github-backup/pull/53) on [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup)
 - [Adds minute offset to hourly scheduling](https://github.com/cenodude/CrossWatch/pull/54) on [cenodude/CrossWatch](https://github.com/cenodude/CrossWatch)
-- [chore: update dependabot and deps](https://github.com/Frazzer951/futils/pull/11) on [Frazzer951/futils](https://github.com/Frazzer951/futils)
