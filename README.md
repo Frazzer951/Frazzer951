@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add qbit_manage-style tracker tags and share limits](https://github.com/Frazzer951/qbit_controller/pull/45) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
-- [Refactor backup runner and improve sync behavior](https://github.com/Frazzer951/docker-github-backup/pull/59) on [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup)
-- [Bumps version to 0.2.3](https://github.com/Frazzer951/qbit_controller/pull/38) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
-- [Fix inconsistent ordering in config](https://github.com/Frazzer951/qbit_controller/pull/35) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
-- [Updates](https://github.com/Frazzer951/docker-github-backup/pull/53) on [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup)
+- [feat(app): keyboard handling in panes: kitty protocol, Linux copy/paste and word keys, Option as Meta](https://github.com/Frazzer951/ftm/pull/59) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [fix(ftmd): never signal a recycled process group, and log pane exits](https://github.com/Frazzer951/ftm/pull/58) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [docs: issue forms, PR template and CONTRIBUTING.md](https://github.com/Frazzer951/ftm/pull/57) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [fix(app): show the font preview under the font fields in Settings](https://github.com/Frazzer951/ftm/pull/56) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [feat(app): in-app update check with stable/nightly channels](https://github.com/Frazzer951/ftm/pull/54) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
