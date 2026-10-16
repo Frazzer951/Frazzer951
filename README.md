@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(app): play status sounds with Web Audio so FTM never takes the media keys](https://github.com/Frazzer951/ftm/pull/64) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [feat(app): drag to rearrange sidebar folders](https://github.com/Frazzer951/ftm/pull/62) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [feat(app): keyboard handling in panes: kitty protocol, Linux copy/paste and word keys, Option as Meta](https://github.com/Frazzer951/ftm/pull/59) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [fix(ftmd): never signal a recycled process group, and log pane exits](https://github.com/Frazzer951/ftm/pull/58) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [docs: issue forms, PR template and CONTRIBUTING.md](https://github.com/Frazzer951/ftm/pull/57) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [fix(app): show the font preview under the font fields in Settings](https://github.com/Frazzer951/ftm/pull/56) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [feat(app): in-app update check with stable/nightly channels](https://github.com/Frazzer951/ftm/pull/54) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
