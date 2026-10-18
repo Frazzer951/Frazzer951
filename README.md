@@ -26,8 +26,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix: review findings on the sidebar color/arrange/resize PR](https://github.com/Frazzer951/ftm/pull/94) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [feat(app): show status for Claude sessions in terminal workspaces](https://github.com/Frazzer951/ftm/pull/90) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [fix(ftmd): keep Kill and resizes across holder reconnects, save off the lock, and follow-ups](https://github.com/Frazzer951/ftm/pull/86) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [fix(app): ftmd error notice, layout-aware kitty keys, replay input filter](https://github.com/Frazzer951/ftm/pull/84) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [fix: CLI, core and ftmd leftovers from the hardening review](https://github.com/Frazzer951/ftm/pull/83) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [feat(app): paste dropped file paths into the pane under the drop](https://github.com/Frazzer951/ftm/pull/82) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
