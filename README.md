@@ -11,6 +11,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/jellyfin-curator](https://github.com/Frazzer951/jellyfin-curator) - Config-driven playlist and collection automation for Jellyfin
 - [Frazzer951/ftm](https://github.com/Frazzer951/ftm) - 
 - [Frazzer951/plex_unmonitorr](https://github.com/Frazzer951/plex_unmonitorr) - 
 - [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
@@ -18,11 +19,11 @@
 
 #### 🌱 My latest projects
 
+- [Frazzer951/jellyfin-curator](https://github.com/Frazzer951/jellyfin-curator) - Config-driven playlist and collection automation for Jellyfin
 - [Frazzer951/homebrew-ftm](https://github.com/Frazzer951/homebrew-ftm) - 
 - [Frazzer951/ftm](https://github.com/Frazzer951/ftm) - 
 - [Frazzer951/plex_unmonitorr](https://github.com/Frazzer951/plex_unmonitorr) - 
 - [Frazzer951/kometa-images](https://github.com/Frazzer951/kometa-images) - 
-- [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
 
 #### 🔨 My recent Pull Requests
 
