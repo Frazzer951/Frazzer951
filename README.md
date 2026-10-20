@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/jellyfin-curator](https://github.com/Frazzer951/jellyfin-curator) - Config-driven playlist and collection automation for Jellyfin
 - [Frazzer951/ftm](https://github.com/Frazzer951/ftm) - 
+- [Frazzer951/jellyfin-curator](https://github.com/Frazzer951/jellyfin-curator) - Config-driven playlist and collection automation for Jellyfin
 - [Frazzer951/plex_unmonitorr](https://github.com/Frazzer951/plex_unmonitorr) - 
 - [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(app): open URLs in panes with Cmd/Ctrl&#43;click](https://github.com/Frazzer951/ftm/pull/98) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [feat: custom, random, inherited and folder colors for workspaces](https://github.com/Frazzer951/ftm/pull/97) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [fix: review findings on the sidebar color/arrange/resize PR](https://github.com/Frazzer951/ftm/pull/94) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [feat(app): show status for Claude sessions in terminal workspaces](https://github.com/Frazzer951/ftm/pull/90) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [fix(ftmd): keep Kill and resizes across holder reconnects, save off the lock, and follow-ups](https://github.com/Frazzer951/ftm/pull/86) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [fix(app): ftmd error notice, layout-aware kitty keys, replay input filter](https://github.com/Frazzer951/ftm/pull/84) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [fix: CLI, core and ftmd leftovers from the hardening review](https://github.com/Frazzer951/ftm/pull/83) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
