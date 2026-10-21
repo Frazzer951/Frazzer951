@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(app): Floating Steps logo and a tray icon](https://github.com/Frazzer951/ftm/pull/104) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [feat(app): merge-a logo, shown in the sidebar header](https://github.com/Frazzer951/ftm/pull/102) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [feat(app): new logo, and a Done sound as the default finished sound](https://github.com/Frazzer951/ftm/pull/100) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [feat(app): open URLs in panes with Cmd/Ctrl&#43;click](https://github.com/Frazzer951/ftm/pull/98) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [feat: custom, random, inherited and folder colors for workspaces](https://github.com/Frazzer951/ftm/pull/97) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [fix: review findings on the sidebar color/arrange/resize PR](https://github.com/Frazzer951/ftm/pull/94) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [feat(app): show status for Claude sessions in terminal workspaces](https://github.com/Frazzer951/ftm/pull/90) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [fix(ftmd): keep Kill and resizes across holder reconnects, save off the lock, and follow-ups](https://github.com/Frazzer951/ftm/pull/86) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
