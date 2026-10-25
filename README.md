@@ -11,10 +11,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/ftm](https://github.com/Frazzer951/ftm) - 
 - [Frazzer951/jellyfin-curator](https://github.com/Frazzer951/jellyfin-curator) - Config-driven playlist and collection automation for Jellyfin
 - [Frazzer951/plex_unmonitorr](https://github.com/Frazzer951/plex_unmonitorr) - 
-- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
 
 #### 🌱 My latest projects
@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refresh CI and dependabot to match ftm](https://github.com/Frazzer951/qbit_controller/pull/58) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
+- [Add standalone orphan data check](https://github.com/Frazzer951/qbit_controller/pull/55) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
+- [Send shareLimitsMode to torrents/setShareLimits](https://github.com/Frazzer951/qbit_controller/pull/54) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [feat(app): Floating Steps logo and a tray icon](https://github.com/Frazzer951/ftm/pull/104) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [feat(app): merge-a logo, shown in the sidebar header](https://github.com/Frazzer951/ftm/pull/102) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [feat(app): new logo, and a Done sound as the default finished sound](https://github.com/Frazzer951/ftm/pull/100) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [feat(app): open URLs in panes with Cmd/Ctrl&#43;click](https://github.com/Frazzer951/ftm/pull/98) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [feat: custom, random, inherited and folder colors for workspaces](https://github.com/Frazzer951/ftm/pull/97) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
