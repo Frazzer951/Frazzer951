@@ -11,8 +11,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/ftm](https://github.com/Frazzer951/ftm) - 
+- [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller) - A Utility Script to help manage qBittorrent
 - [Frazzer951/jellyfin-curator](https://github.com/Frazzer951/jellyfin-curator) - Config-driven playlist and collection automation for Jellyfin
 - [Frazzer951/plex_unmonitorr](https://github.com/Frazzer951/plex_unmonitorr) - 
 - [Frazzer951/docker-github-backup](https://github.com/Frazzer951/docker-github-backup) - 
@@ -27,8 +27,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(app): map the sound volume slider to gain on a cubic taper](https://github.com/Frazzer951/ftm/pull/114) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
+- [fix(app): bump tao to 0.37.2 so AppKit exceptions in sendEvent: no longer abort](https://github.com/Frazzer951/ftm/pull/112) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
 - [Refresh CI and dependabot to match ftm](https://github.com/Frazzer951/qbit_controller/pull/58) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [Add standalone orphan data check](https://github.com/Frazzer951/qbit_controller/pull/55) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
 - [Send shareLimitsMode to torrents/setShareLimits](https://github.com/Frazzer951/qbit_controller/pull/54) on [Frazzer951/qbit_controller](https://github.com/Frazzer951/qbit_controller)
-- [feat(app): Floating Steps logo and a tray icon](https://github.com/Frazzer951/ftm/pull/104) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
-- [feat(app): merge-a logo, shown in the sidebar header](https://github.com/Frazzer951/ftm/pull/102) on [Frazzer951/ftm](https://github.com/Frazzer951/ftm)
